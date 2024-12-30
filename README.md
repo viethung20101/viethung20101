@@ -17,8 +17,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viethung20101&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viethung20101&layout=compact&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viethung20101&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viethung20101&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
 </p>
 
 ### 🎯 Expertise
