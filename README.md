@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ### 📊 GitHub Analytics
@@ -23,28 +27,41 @@
 
 ### 🎯 Expertise
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'Monaco' }}}%%
 mindmap
-  root((Skills))
-    AI/ML
+  root((Tech Stack))
+    AI/Machine Learning
       TensorFlow
       PyTorch
-      Scikit-learn
-    Backend
+      Computer Vision
+      Deep Learning
+    Backend Development
       NestJS
       TypeScript
       Node.js
+      REST APIs
+      GraphQL
     DevOps
       Docker
-      Kubernetes
-      CI/CD
     Databases
       MongoDB
       PostgreSQL
+      MySQL
 ```
 
-📈 Contribution Graph
+### 📈 Contribution Graph
 
-<img alt="Your activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viethung20101&amp;theme=tokyo-night">
-🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/vhung2010"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:viethung20101@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/> </p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viethung20101&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF&custom_title=Contribution%20Graph&radius=6)](https://github.com/viethung20101)
+
+### 🤝 Connect With Me
+<p align="center"> 
+  <a href="https://linkedin.com/in/vhung2010"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+  <a href="mailto:viethung20101@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a> 
+</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/> 
+</p>
