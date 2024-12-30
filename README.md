@@ -16,9 +16,9 @@
 </p>
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viethung20101&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viethung20101&layout=compact&theme=tokyonight"/> 
 </p>
 
 ### 🎯 Expertise
@@ -40,10 +40,11 @@ mindmap
     Databases
       MongoDB
       PostgreSQL
+```
 
 📈 Contribution Graph
 
-<img alt="Your activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&amp;theme=tokyo-night">
+<img alt="Your activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viethung20101&amp;theme=tokyo-night">
 🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/yourusername"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/> </p> ```
+<p align="center"> <a href="https://linkedin.com/in/vhung2010"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:viethung20101@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/> </p>
