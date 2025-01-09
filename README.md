@@ -64,5 +64,5 @@ mindmap
   </a> 
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/> 
+  <img src="https://komarev.com/ghpvc/?username=viethung20101&style=flat-square&color=blue" alt=""/> 
 </p>
