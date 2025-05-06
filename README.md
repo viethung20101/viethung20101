@@ -26,30 +26,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viethung20101&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
 </p>
 
-### 🎯 Expertise
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'Monaco' }}}%%
-mindmap
-  root((Tech Stack))
-    AI/Machine Learning
-      TensorFlow
-      PyTorch
-      Computer Vision
-      Deep Learning
-    Backend Development
-      NestJS
-      TypeScript
-      Node.js
-      REST APIs
-      GraphQL
-    DevOps
-      Docker
-    Databases
-      MongoDB
-      PostgreSQL
-      MySQL
-```
-
 ### 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viethung20101&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF&custom_title=Contribution%20Graph&radius=6)](https://github.com/viethung20101)
