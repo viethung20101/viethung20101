@@ -48,9 +48,9 @@ Always eager to learn, collaborate, and contribute to open-source or impactful r
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viethung20101/snk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viethung20101/snk/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/snk/output/github-snake.svg" />
   </picture>
 </div>
 
