@@ -31,7 +31,7 @@ Always eager to learn, collaborate, and contribute to open-source or impactful r
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 📊 
+### 📊 GitHub Analytics
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viethung20101&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viethung20101&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
